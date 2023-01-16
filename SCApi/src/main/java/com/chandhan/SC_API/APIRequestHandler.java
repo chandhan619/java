@@ -1,4 +1,4 @@
-package com.chandhan.SC_API;
+package main.java.com.chandhan.SC_API;
 
 import javax.ws.rs.core.MediaType;
 
