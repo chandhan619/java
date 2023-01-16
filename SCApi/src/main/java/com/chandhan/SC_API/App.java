@@ -1,4 +1,4 @@
-package com.chandhan.SC_API;
+package main.java.com.chandhan.SC_API;
 
 public class App {
 	
