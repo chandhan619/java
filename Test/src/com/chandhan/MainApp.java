@@ -1,9 +1,13 @@
 package com.chandhan;
 
+import com.chandhan.pojo.Animal;
+import com.chandhan.pojo.Dog;
+
 public class MainApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Animal a = new Dog();
+		System.out.println(a.legs);
 
 	}
 
